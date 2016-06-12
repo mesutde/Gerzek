@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Log.i("deneme","deneme");
+        Log.i("Doğan", "Kılıç");
     }
 }
